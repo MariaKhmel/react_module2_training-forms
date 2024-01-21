@@ -18,4 +18,6 @@ const ToDoText = styled.p`
   margin-right: 10px;
 
 `
+
+
 export { TotalToDoList, ToDoItem, ToDoText }
